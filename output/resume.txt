@@ -1,0 +1,87 @@
+Swathi Kanda
+AI Engineer | Machine Learning & Computer Vision | OCR Researcher
+Phone: +91 70952 11632 Email: swathikanda5@gmail.com LinkedIn: linkedin.com/in/swathikanda GitHub:
+github.com/s199487
+Location: Hyderabad, Telangana, India
+PRO F ES S IO NA L S UMMA RY
+AI Engineer and Machine Learning professional with an M.Sc. in Statistics and hands-on experience spanning 4 internships and
+full-time roles in AI development. Specialises in designing end-to-end machine learning pipelines, developing deep learning
+solutions, and building Computer Vision and OCR systems. Key achievement: engineered OCR pipelines for four low-resource
+ancient scripts (Brahmi, Sharada, Grantha, Hale Kannada) achieving up to 92% character-level accuracy across 12,000+ training
+images. Proficient in Python, TensorFlow, OpenCV, SQL, Tableau, and Power BI. Open to roles in AI Engineering, ML Engineering,
+Data Science, and Computer Vision Research.
+TEC H NIC A L S KIL L S
+Machine Learning TensorFlow · Scikit-learn · Random Forests · SVMs · Regression · CNNs · RNNs · LSTMs
+Computer Vision OpenCV · OCR Systems · scikit-image · GIMP · Image Augmentation · Gradio
+NLP & Generative AI NLP · Generative AI · Predictive Analytics · Statistical Modelling · Feature Engineering
+Programming Python · SQL (MySQL)
+Data & Visualisation Power BI · Tableau · Pandas · NumPy
+PRO F ES S IO NA L EXPERIENC E
+Artificial Intelligence Engineer
+Vishvam.AI · Serilingampalli, Hyderabad April 2026 – Present
+• Architect and deploy Computer Vision and Generative AI solutions within a full-time production engineering capacity.
+• Design and ship AI system components, model deployments, and ongoing ML research initiatives.
+• Optimise model pipelines for performance and scalability in real-world production environments.
+Software Developer – Artificial Intelligence
+Vishvena Techno Solutions · Hyderabad June 2025 – February 2026
+• Engineered end-to-end OCR pipelines for four historical scripts: Brahmi, Sharada, Grantha, and Hale Kannada.
+• Generated and processed 12,000+ synthetic and real-world character images using Google Fonts and manuscript PDFs;
+implemented preprocessing, augmentation, and labelling pipelines.
+• Trained TensorFlow-based deep learning models achieving up to ~92% character-level accuracy.
+• Segmented manuscript lines and individual characters using GIMP and OpenCV/scikit-image; produced one-to-one script
+mapping outputs.
+• Evaluated models with confusion matrices, precision, recall, and F1-score; deployed interactive OCR demos via Gradio.
+Artificial Intelligence Intern
+Codec Technologies India · Hyderabad March 2025 – April 2025
+• Implemented supervised, unsupervised, and reinforcement learning models on real-world datasets.
+• Delivered live Perceptron learning sessions with practical demonstrations to peers and stakeholders.
+• Built CNN and RNN architectures through lab-based exercises, reinforcing deep learning fundamentals.
+Machine Learning Intern
+Fynn Labs · Hyderabad August 2024 – October 2024
+• Conducted market analysis for a fraud detection application, identifying key data patterns and business requirements.
+• Developed Random Forest and Logistic Regression models for EV data analysis and predictive insights.
+• Collaborated with cross-functional teams to deliver real-world ML solutions from problem scoping to deployment.
+KEY PRO J EC TS
+Ancient Script OCR System – Brahmi, Sharada, Grantha, Hale Kannada
+June 2025 – February 2026 | Vishvena Techno Solutions
+GitHub: https://github.com/s199487/vishwena
+Engineered end-to-end OCR pipelines across 4 historical scripts. Generated 12,000+ training images; achieved ~92% character-level
+accuracy using TensorFlow. Segmented manuscript lines and characters using GIMP and OpenCV/scikit-image; deployed interactive
+Gradio demo. Technologies: Python, TensorFlow, OpenCV, scikit-image, GIMP, Gradio.
+Vishvena Infotech – AI-Powered Ancient Script OCR & Dataset Generation Platform
+June 2025 – February 2026 | Vishvena Techno Solutions
+GitHub: https://github.com/s199487/vishvena_infotech
+Built automated pipelines for Unicode conversion, synthetic dataset generation, image preprocessing, and multilingual OCR dataset
+creation. Applied Computer Vision and ML techniques to support historical manuscript digitisation through scalable OCR. Technologies:
+Python, Computer Vision, OCR, Deep Learning, NLP, Image Processing, Dataset Engineering.
+AI Smart Farming: Precision Agriculture for Sustainable Food Production
+January 2026 – February 2026 | Vishvena Techno Solutions
+Live Demo: https://aismartfarming-156jm2q.gamma.site/
+Developed an AI-driven smart farming platform integrating ML, Computer Vision, and predictive analytics for crop selection, disease
+identification, yield optimisation, and resource management. Delivered AI-based crop recommendation, early issue monitoring, and
+data-driven resource insights. Technologies: Python, Machine Learning, Computer Vision, Predictive Modelling, Agricultural
+Informatics.
+Bharatiya Knowledge Systems (BKS): Digitizing India's Traditional Wisdom Through AI
+January 2026 – February 2026 | Vishvena Techno Solutions
+Live Demo: https://bharatiya-knowledge-syst-rj2705o.gamma.site/
+Designed AI, OCR, and Computer Vision workflows to digitise ancient manuscripts and transform indigenous knowledge into
+structured, machine-readable formats. Covered domains including agriculture, medicine, mathematics, astronomy, and philosophy.
+Technologies: Python, AI, Computer Vision, OCR, NLP, Data Analysis, Image Processing, Dataset Engineering.
+Full-Stack Notes Management System
+May 2026 – Present | Vishvam.AI
+GitHub (Frontend): https://github.com/s199487/notes-frontend
+GitHub (Backend): https://github.com/s199487/notes-backend
+Built a full-stack Notes Management System using Node.js and PostgreSQL. Developed RESTful APIs, designed relational database
+schemas, and integrated frontend and backend components for a scalable and responsive web application. Technologies: Node.js,
+PostgreSQL, RESTful APIs.
+Stock Price Prediction & Telecom Churn Prediction
+2024 | Academic Projects
+Stock Price Prediction: Built an RNN/LSTM time-series forecasting model on financial data with feature engineering, evaluated using
+RMSE metrics. Telecom Churn Prediction: Developed a supervised classification model with EDA, class imbalance handling, and full
+precision/recall/F1 evaluation. Technologies: Python, Keras, Scikit-learn, Pandas.
+ED UC A TI O N
+Master of Science – Statistics
+Bankatlal Badruka College of Information and Technology, Hyderabad November 2022 – September 2024
+C ERTIF IC A TIO NS
+AI Tools & ChatGPT Workshop Data Visualization with Power BI Python Basic Programs
+MySQL Basics Introduction to Data Science
